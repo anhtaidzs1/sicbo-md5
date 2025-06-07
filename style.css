@@ -1,0 +1,31 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background: #1b1b2f;
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+.game-container {
+  max-width: 500px;
+  margin: auto;
+  background: #25274d;
+  padding: 20px;
+  border-radius: 10px;
+}
+.dice-container {
+  font-size: 50px;
+  margin: 20px 0;
+}
+button {
+  background: #f76c6c;
+  border: none;
+  padding: 10px 20px;
+  font-size: 18px;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background: #ff4b5c;
+}
